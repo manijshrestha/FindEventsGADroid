@@ -1,3 +1,4 @@
+//Copyright Novaapps
 package com.novaapps.findevents;
 
 import android.os.Bundle;
