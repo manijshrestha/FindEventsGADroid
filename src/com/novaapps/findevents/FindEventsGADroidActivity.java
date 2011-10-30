@@ -10,6 +10,7 @@ public class FindEventsGADroidActivity extends DroidGap {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        super.loadUrl("http://findevents.cloudfoundry.com");
+        //super.loadUrl("http://findevents.cloudfoundry.com");
+        super.loadUrl("http://localhost:8080/FindEventsGA");
     }
 }
